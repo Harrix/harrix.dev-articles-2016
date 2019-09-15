@@ -78,6 +78,6 @@ namespace ConsoleApplication8
 
 Получаем наше приложение:
 
-![Запущенное приложение](img/new-project_01.png)
+![Запущенное приложение](img/result_01.png)
 
-![Результат выполнения программы](img/new-project_02.png)
+![Результат выполнения программы](img/result_02.png)
