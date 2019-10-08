@@ -13,7 +13,7 @@ tags: [Pascal, Сложение двух чисел]
 
 ---
 
-**Установка Установка Free Pascal IDE** <!-- !details -->
+**Установка Free Pascal IDE** <!-- !details -->
 
 Скачиваем программу тут: <https://sourceforge.net/projects/freepascal/files/?source=navbar>:
 
