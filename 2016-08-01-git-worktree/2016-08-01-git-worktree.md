@@ -18,7 +18,7 @@ git worktree add ../[NewFolder] [commit]
 
 Открываю консоль нужного репозитория в `GitHub Desktop`:
 
-![Вызов консоли](img/command-promt.png)
+![Вызов консоли](img/command-prompt.png)
 
 После этого нахожу в истории нужный коммит и копирую его SHA через нажатие правой кнопки по коммиту в истории:
 
