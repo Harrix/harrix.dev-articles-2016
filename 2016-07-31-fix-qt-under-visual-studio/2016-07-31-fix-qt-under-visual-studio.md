@@ -65,7 +65,7 @@ When executing step "Run windeployqt"
 
 ### Выкачка исходных кодов jom
 
-Выкачать можно с помощью консоли git:
+Выкачать можно с помощью консоли Git:
 
 ```console
 git clone https://github.com/qt-labs/jom
