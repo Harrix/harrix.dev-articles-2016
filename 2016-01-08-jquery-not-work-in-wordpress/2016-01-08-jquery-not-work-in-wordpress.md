@@ -1,6 +1,6 @@
 ---
 categories: [it, web]
-tags: [CMS, Wordpress, jQuery, javascript]
+tags: [CMS, Wordpress, jQuery, JavaScript]
 ---
 
 # jQuery не работает в WordPress
