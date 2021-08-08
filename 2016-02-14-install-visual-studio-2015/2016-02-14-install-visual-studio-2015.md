@@ -7,7 +7,7 @@ tags: [Установка, Visual Studio, C++]
 
 В статье приведена инструкция по установке бесплатной версии Visual Studio 2015 Community на Windows 10 для программирования на C++.
 
-**Внимание!** Вышла Visual Studio 2017. [Читайте](/blog/2017/install-visual-studio-2017/) более новую статью.
+**Внимание!** Вышла Visual Studio 2019. [Читайте](/blog/2021/install-visual-studio-2019/) более новую статью.
 
 Если вам нужна именно версия 2015 года, то читайте эту статью: [Скачивание старых версий Visual Studio](/blog/2018/download-old-versions-vs/).
 
