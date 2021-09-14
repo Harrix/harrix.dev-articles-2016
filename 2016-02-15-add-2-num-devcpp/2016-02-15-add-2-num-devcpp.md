@@ -1,7 +1,7 @@
 ---
 categories: [it, programming]
 tags: [Dev C++, C++, Сложение двух чисел, Установка]
-update: 2021-08-19
+update: 2021-09-14
 ---
 
 # Сложение двух чисел в Dev-C++
@@ -237,3 +237,58 @@ int main(int argc, char** argv)
 ```cpp
 int main()
 ```
+
+## Русская кодировка в Embarcadero Dev C++
+
+Embarcadero перешел на кодировку UTF-8 для работы с текстом. Что вызывает проблемы с работой русского текста в консоли.
+
+Самый простой способ сохранять текст в ANSI кодировке, и при компиляции проекта не позволяйте перевести код в UTF-8:
+
+![Сохранение файла](img/encode_01.png)
+
+![Отказ от перевода кодировки](img/encode_03.png)
+
+И используйте функции `SetConsoleCP` и `SetConsoleOutputCP`:
+
+```cpp
+#include <iostream>
+#include <string>
+#include <Windows.h>
+
+using namespace std;
+
+int main() {
+    setlocale(LC_ALL, "RUSSIAN");
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+
+    cout << "Пример текста"<< endl;
+
+    string input;
+    cin >> input;
+    cout << "Вывод: "<< input << endl;
+
+    return 0;
+}
+```
+
+Если же вы хотите использовать кодировку UTF-8 или согласились на преобразование файла в UTF-8, то тогда вам будет нужен подобный код:
+
+```cpp
+#include <iostream>
+#include <string>
+#include <Windows.h>
+
+using namespace std;
+
+int main() {
+    SetConsoleOutputCP(CP_UTF8);
+    SetConsoleCP(CP_UTF8); // не работает
+
+    cout << "Пример текста"<< endl;
+
+    return 0;
+}
+```
+
+Считывание русского языка из консоли в Windows 10 я победить не смог. Английский текст считывается прекрасно, а русский отказывается.
