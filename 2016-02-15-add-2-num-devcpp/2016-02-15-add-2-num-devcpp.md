@@ -246,7 +246,7 @@ Embarcadero перешел на кодировку UTF-8 для работы с 
 
 ![Сохранение файла](img/encode_01.png)
 
-![Отказ от перевода кодировки](img/encode_03.png)
+![Отказ от перевода кодировки](img/encode_02.png)
 
 И используйте функции `SetConsoleCP` и `SetConsoleOutputCP`:
 
