@@ -9,9 +9,9 @@ tags: [Qt, C++, Qt Quick, QML, Сложение двух чисел]
 
 В качестве среды для разработки используется Qt 5.6.0 для Windows 64 bit под компилятором Visual Studio.
 
-В [статье](/blog/2016/qt-quick-and-cpp/) приведена сокращенная версия данной статьи.
+В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-03-21-qt-quick-and-cpp/2016-03-21-qt-quick-and-cpp.md) приведена сокращенная версия данной статьи.
 
-В [статье](/blog/2016/add-2-num-qt-quick-controls) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
+В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-03-21-add-2-num-qt-quick-controls/2016-03-21-add-2-num-qt-quick-controls.md) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
 
 ## Подготовка
 

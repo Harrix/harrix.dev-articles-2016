@@ -5,7 +5,7 @@ tags: [C++, Visual Studio]
 
 # Разбор XML файла с применением классов на C++/CLI
 
-Продолжаем статью [Пример разбора XML файла в Visual Studio 2015 на C++](/blog/2016/xml-file-vs-2015/).
+Продолжаем статью [Пример разбора XML файла в Visual Studio 2015 на C++](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-09-11-xml-file-vs-2015/2016-09-11-xml-file-vs-2015.md).
 
 В статье не будет особо комментариев и подробностей ввиду определенных причин.
 

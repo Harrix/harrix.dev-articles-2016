@@ -43,7 +43,7 @@ function make_importanttext($content){
 
 ## Отображение файлов Markdown \*.md в WordPress
 
-Читайте в [статье](/blog/2014/show-pdf-from-github/).
+Читайте в [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-02-06-show-pdf-from-github/2014-02-06-show-pdf-from-github.md).
 
 ## Оформление цитат
 
