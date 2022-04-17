@@ -6,9 +6,9 @@ tags: [Qt, C++, Qt Quick, QML]
 
 # Qt Quick и C++ в Qt — Краткая инструкция
 
-Это укороченный вариант [статьи](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-03-21-add-2-num-qt-quick/2016-03-21-add-2-num-qt-quick.md). Там рассматривается конкретный пример работающего приложения, а здесь расписывается без воды, как добавить C++ часть в приложение Qt Quick.
+Это укороченный вариант [статьи](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md). Там рассматривается конкретный пример работающего приложения, а здесь расписывается без воды, как добавить C++ часть в приложение Qt Quick.
 
-В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-03-21-add-2-num-qt-quick-controls/2016-03-21-add-2-num-qt-quick-controls.md) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
+В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
 
 - Создайте приложение `Qt Quick Application`.
 

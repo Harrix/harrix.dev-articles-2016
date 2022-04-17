@@ -12,7 +12,7 @@ tags: [C++, Visual Studio, Сложение двух чисел]
 
 **Внимание!** <!-- !important -->
 
-Посмотрите более новую [статью](https://github.com/Harrix/harrix.dev-blog-2017/blob/main/2017-03-18-add-2-num-vs-2015-console-2/2017-03-18-add-2-num-vs-2015-console-2.md), где приводится пример приложения без использования `stdafx.h`.
+Посмотрите более новую [статью](https://github.com/Harrix/harrix.dev-blog-2017/blob/main/add-2-num-vs-2015-console-2/add-2-num-vs-2015-console-2.md), где приводится пример приложения без использования `stdafx.h`.
 
 ---
 

@@ -44,7 +44,7 @@ function make_importanttext($content){
 
 ## Отображение файлов Markdown \*.md в WordPress
 
-Читайте в [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-02-06-show-pdf-from-github/2014-02-06-show-pdf-from-github.md).
+Читайте в [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md).
 
 ## Оформление цитат
 
@@ -98,11 +98,11 @@ shareButtons: [
   {
     id: "vk",
     label: "Опубликовать в ВКонтакте",
-    url: "http://vk.com/share.php?url={{url}}&image={{image_url}}&title={{text}}&noparse=true"
+    url: "http://vk.com/share.php?url={{url}}&image={{image_url}}&title={{text}}&noparse=true",
   },
   { id: "facebook", label: "Опубликовать в Facebook", url: "https://www.facebook.com/sharer/sharer.php?u={{url}}" },
   { id: "twitter", label: "Опубликовать в Twitter", url: "https://twitter.com/intent/tweet?text={{text}}&url={{url}}" },
-  { id: "download", label: "Скачать", url: "{{raw_image_url}}", download: !0 }
+  { id: "download", label: "Скачать", url: "{{raw_image_url}}", download: !0 },
 ];
 ```
 

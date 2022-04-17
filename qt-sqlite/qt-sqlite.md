@@ -12,7 +12,7 @@ tags: [SQLite, Qt]
 
 ## Подготовка базы данных
 
-В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-03-22-db-browser-for-sqlite/2016-03-22-db-browser-for-sqlite.md) рассказывается, как создавать базы данных заранее и заполнять их в специальной программе (одной из многих).
+В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/db-browser-for-sqlite/db-browser-for-sqlite.md) рассказывается, как создавать базы данных заранее и заполнять их в специальной программе (одной из многих).
 
 В данной статье будем придерживаться именно этой идеологии: проектирование базы данных и её создание мы осуществляем не в Qt.
 
@@ -107,4 +107,4 @@ while (query.next()) {
 
 ![Результат работы программы](img/result.png)
 
-P.S. В [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-04-22-output-data-to-qtableview/2014-04-22-output-data-to-qtableview.md) рассказывается, как закидывать данные в таблицу в компонент `QTableView`.
+P.S. В [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) рассказывается, как закидывать данные в таблицу в компонент `QTableView`.

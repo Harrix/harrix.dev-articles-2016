@@ -10,7 +10,7 @@ update: 2018
 
 В статье рассказывается как запускать приложения, созданные в Qt под Visual Studio без самого Qt Creator. Или же приложения должны запускаться на компах, где нет Qt.
 
-Для версии Qt под компилятор MinGW читайте статью [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-01-28-run-qt-app-exe-outside-qt/2014-01-28-run-qt-app-exe-outside-qt.md).
+Для версии Qt под компилятор MinGW читайте статью [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md).
 
 Тут расскажу о самом механизме нахождения DLL, так как Qt активно развивается и регулярно новые версии выпускает и под каждую версию писать статью о новом наборе DLL накладно.
 
