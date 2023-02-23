@@ -3,6 +3,8 @@ date: 2016-07-31
 categories: [it, programming]
 tags: [Qt, Visual Studio, Крякозябры]
 update: 2018-08
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Крякозябры в Qt под Visual Studio

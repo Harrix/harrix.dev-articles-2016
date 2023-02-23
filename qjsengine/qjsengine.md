@@ -3,6 +3,8 @@ date: 2016-03-23
 categories: [it, programming]
 tags: [Qt, Интерпретатор, C++, QJSEngine]
 latex: true
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Интерпретатор функций в Qt — QJSEngine

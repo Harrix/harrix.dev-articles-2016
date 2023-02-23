@@ -3,6 +3,8 @@ date: 2016-09-21
 categories: [it, program]
 tags: [Atom, Текстовой редактор, FAQ]
 update: 2018-11-24
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Настройка Atom

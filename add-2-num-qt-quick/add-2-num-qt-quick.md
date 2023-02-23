@@ -2,6 +2,8 @@
 date: 2016-03-21
 categories: [it, programming]
 tags: [Qt, C++, Qt Quick, QML, Сложение двух чисел]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в Qt на C++ (Qt Quick)

@@ -2,6 +2,8 @@
 date: 2016-06-05
 categories: [it, programming]
 tags: [C++, Работа с файлами]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Считывание матрицы из файла на C++

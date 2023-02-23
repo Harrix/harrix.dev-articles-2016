@@ -3,6 +3,8 @@ date: 2016-02-15
 categories: [it, programming]
 tags: [Dev C++, C++, Сложение двух чисел, Установка]
 update: 2021-09-14
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в Dev-C++

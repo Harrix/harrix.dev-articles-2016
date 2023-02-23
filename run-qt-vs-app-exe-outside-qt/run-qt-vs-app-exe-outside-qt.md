@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [Qt, Visual Studio]
 related-id: start-qt
 update: 2018
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Запуск Qt приложений под Visual Studio .exe вне Qt Creator

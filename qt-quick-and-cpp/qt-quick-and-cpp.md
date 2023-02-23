@@ -2,6 +2,8 @@
 date: 2016-03-21
 categories: [it, programming]
 tags: [Qt, C++, Qt Quick, QML]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Qt Quick и C++ в Qt — Краткая инструкция

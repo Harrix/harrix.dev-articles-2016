@@ -2,6 +2,8 @@
 date: 2016-01-08
 categories: [it, web]
 tags: [CMS, Wordpress, jQuery, JavaScript]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # jQuery не работает в WordPress

@@ -2,6 +2,8 @@
 date: 2016-12-15
 categories: [it, programming]
 tags: [Qt]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Копирование файлов в build папку при компиляции проекта в Qt

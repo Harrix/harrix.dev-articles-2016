@@ -4,6 +4,8 @@ categories: [it, web]
 tags: [CMS, Wordpress]
 related-id: tools-blog
 update: 2018
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Инструменты, использованные в блоге на Wordpress. Часть 2

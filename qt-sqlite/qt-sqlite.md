@@ -2,6 +2,8 @@
 date: 2016-03-22
 categories: [it, programming]
 tags: [SQLite, Qt]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Подключение базы данных SQLite в Qt

@@ -3,6 +3,8 @@ date: 2016-03-22
 categories: [it, programming]
 tags: [SQLite, Базы данных]
 update: 2019-08-05
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Создание SQLite базы данных в DB Browser for SQLite

@@ -3,6 +3,8 @@ date: 2016-01-02
 categories: [it, program]
 tags: [Notepad++, Текстовой редактор, Markdown, Подсветка синтаксиса]
 related-id: notepad-highlight
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Markdown в Notepad++

@@ -2,6 +2,8 @@
 date: 2016-09-23
 categories: [it, programming]
 tags: [C++, Visual Studio]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Создание класса с вектором экземпляров другого класса на C++/CLI

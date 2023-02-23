@@ -2,6 +2,8 @@
 date: 2016-05-28
 categories: [it, programming]
 tags: [C++, C++ Builder, Сложение двух чисел]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в C++ Builder 10 Seattle на C++

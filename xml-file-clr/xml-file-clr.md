@@ -2,6 +2,8 @@
 date: 2016-09-26
 categories: [it, programming]
 tags: [C++, Visual Studio]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Разбор XML файла с применением классов на C++/CLI

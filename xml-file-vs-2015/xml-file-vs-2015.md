@@ -2,6 +2,8 @@
 date: 2016-09-11
 categories: [it, programming]
 tags: [C++, Visual Studio, Работа с файлами, XML]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Пример разбора XML файла в Visual Studio 2015 на C++

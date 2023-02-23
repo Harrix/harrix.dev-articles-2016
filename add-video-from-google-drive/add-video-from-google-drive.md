@@ -2,6 +2,8 @@
 date: 2016-03-13
 categories: [it, web]
 tags: [Google Drive, Wordpress, Видео]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как добавить на сайт видео из Google Drive

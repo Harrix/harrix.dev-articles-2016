@@ -2,6 +2,8 @@
 date: 2016-04-02
 categories: [it, programming]
 tags: [Pascal, Сложение двух чисел]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в PascalABC.NET на Pascal (консольное приложение)

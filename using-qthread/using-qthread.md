@@ -2,6 +2,8 @@
 date: 2016-02-20
 categories: [it, programming]
 tags: [Qt, C++]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как пользоваться QThread в Qt

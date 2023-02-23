@@ -2,6 +2,8 @@
 date: 2016-02-14
 categories: [it, program]
 tags: [Установка, Visual Studio, C++]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка Visual Studio 2015 Community

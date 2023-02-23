@@ -2,6 +2,8 @@
 date: 2016-08-01
 categories: [it, programming]
 tags: [Git, GitHub]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Совмещаем gh-pages с git-worktree

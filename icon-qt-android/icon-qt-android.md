@@ -2,6 +2,8 @@
 date: 2016-08-27
 categories: [it, programming]
 tags: [Qt, Android]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как добавить иконку в приложение Qt под Android
