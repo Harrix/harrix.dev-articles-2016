@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
+url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-file-vs-2015/add-2-num-file-vs-2015.md
 ---
 
 # Сложение двух чисел из файла в Visual Studio 2015 на C++ (консольное Win32 приложение)
