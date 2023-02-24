@@ -5,6 +5,8 @@ tags: [Dev C++, C++, Сложение двух чисел, Установка]
 update: 2021-09-14
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Сложение двух чисел в Dev-C++

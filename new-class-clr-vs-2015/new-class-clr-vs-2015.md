@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [C++, Visual Studio, Работа с файлами, XML]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Создание своего класса в CLR приложении в Visual Studio 2015 на C++/CLI

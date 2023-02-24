@@ -5,6 +5,8 @@ tags: [Qt, Интерпретатор, C++, QJSEngine]
 latex: true
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Интерпретатор функций в Qt — QJSEngine

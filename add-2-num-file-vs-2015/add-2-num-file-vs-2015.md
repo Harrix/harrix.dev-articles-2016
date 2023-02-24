@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [Visual Studio, C++, Сложение двух чисел, Работа с файлами]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Сложение двух чисел из файла в Visual Studio 2015 на C++ (консольное Win32 приложение)

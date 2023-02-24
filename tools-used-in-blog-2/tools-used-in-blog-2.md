@@ -6,6 +6,8 @@ related-id: tools-blog
 update: 2018
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Инструменты, использованные в блоге на Wordpress. Часть 2

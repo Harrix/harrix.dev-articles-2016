@@ -5,6 +5,8 @@ tags: [SQLite, Базы данных]
 update: 2019-08-05
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Создание SQLite базы данных в DB Browser for SQLite
