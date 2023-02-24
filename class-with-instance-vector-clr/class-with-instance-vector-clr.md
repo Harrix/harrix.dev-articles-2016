@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/class-with-instance-vector-clr/class-with-instance-vector-clr.md
+url: https://harrix.dev/ru/blog/2016/class-with-instance-vector-clr/
 ---
 
 # Создание класса с вектором экземпляров другого класса на C++/CLI

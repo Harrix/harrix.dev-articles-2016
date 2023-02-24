@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-vs-2015-win32/add-2-num-vs-2015-win32.md
+url: https://harrix.dev/ru/blog/2016/add-2-num-vs-2015-win32/
 ---
 
 # Сложение двух чисел в Visual Studio 2015 на C++ (Win32 WinAPI приложение)

@@ -9,6 +9,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/tools-used-in-blog-2/tools-used-in-blog-2.md
+url: https://harrix.dev/ru/blog/2016/tools-used-in-blog-2/
 ---
 
 # Инструменты, использованные в блоге на Wordpress. Часть 2

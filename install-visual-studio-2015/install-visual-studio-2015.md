@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/install-visual-studio-2015/install-visual-studio-2015.md
+url: https://harrix.dev/ru/blog/2016/install-visual-studio-2015/
 ---
 
 # Установка Visual Studio 2015 Community
