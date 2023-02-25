@@ -19,9 +19,9 @@ lang: ru
 
 В качестве среды для разработки используется Qt 5.6.0 для Windows 64 bit под компилятором Visual Studio.
 
-В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/qt-quick-and-cpp/qt-quick-and-cpp.md) приведена сокращенная версия данной статьи.
+В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/qt-quick-and-cpp/qt-quick-and-cpp.md) <!-- https://harrix.dev/ru/blog/2016/qt-quick-and-cpp/ --> приведена сокращенная версия данной статьи.
 
-В отличии от [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md) в данной статьи рассматривается построение приложение не с использованием чистого QML, а с использованием QtQuick Controls, то есть компонентов, которые похожи на стандартные компоненты из Qt Widgets и вообще из стандартных приложений. Но получается всё равно QML приложение со всеми плюсами.
+В отличии от [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md) <!-- https://harrix.dev/ru/blog/2016/add-2-num-qt-quick/ --> в данной статьи рассматривается построение приложение не с использованием чистого QML, а с использованием QtQuick Controls, то есть компонентов, которые похожи на стандартные компоненты из Qt Widgets и вообще из стандартных приложений. Но получается всё равно QML приложение со всеми плюсами.
 
 ## Подготовка
 

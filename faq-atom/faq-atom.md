@@ -20,7 +20,7 @@ lang: ru
 
 ## Введение
 
-Первым продвинутым блокнотом, которым я начал активно пользоваться, был [Notepad++](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-notepad-plus-plus/faq-notepad-plus-plus.md) (до сих пор им часто пользуюсь), потом пытался перейти на [Sublime Text](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-sublime-text-2/faq-sublime-text-2.md). А потом пробовал перейти на Atom, про который говорится в этой статье.
+Первым продвинутым блокнотом, которым я начал активно пользоваться, был [Notepad++](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-notepad-plus-plus/faq-notepad-plus-plus.md) <!-- https://harrix.dev/ru/blog/2013/faq-notepad-plus-plus/ --> (до сих пор им часто пользуюсь), потом пытался перейти на [Sublime Text](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-sublime-text-2/faq-sublime-text-2.md) <!-- https://harrix.dev/ru/blog/2013/faq-sublime-text-2/ -->. А потом пробовал перейти на Atom, про который говорится в этой статье.
 
 И да. Потом я всё равно перешел на Visual Studio Code.
 
