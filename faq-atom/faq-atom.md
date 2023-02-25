@@ -14,6 +14,8 @@ lang: ru
 
 # Настройка Atom
 
+![Featured image](featured-image.svg)
+
 Обновленная в 2018 году статья по настройке Atom.
 
 ## Введение

@@ -14,6 +14,8 @@ lang: ru
 
 # Интерпретатор функций в Qt — QJSEngine
 
+![Featured image](featured-image.svg)
+
 Стандартный интерпретатор в Qt (QtScript) устарел. Теперь вместо него QJSEngine. В статье рассказывается, как с ним работать при вычислении выражений.
 
 Статья по содержанию совпадает со статьей [Интерпретатор функции в Qt — QtScript](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/qtscript/qtscript.md), где рассказывается про QtScript.

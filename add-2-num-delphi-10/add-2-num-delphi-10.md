@@ -13,6 +13,8 @@ lang: ru
 
 # Сложение двух чисел в Delphi 10 Seattle на Pascal
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как создать приложение сложения двух чисел в Delphi 10 Seattle.
 
 ## Создание нового приложения

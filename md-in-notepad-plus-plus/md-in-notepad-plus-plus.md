@@ -14,6 +14,8 @@ lang: ru
 
 # Markdown в Notepad++
 
+![Featured image](featured-image.svg)
+
 Как открыть Markdown файл в Notepad++ с подсветкой синтаксиса?
 
 Стили подсветки синтаксиса:

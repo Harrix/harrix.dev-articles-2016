@@ -13,6 +13,8 @@ lang: ru
 
 # Сложение двух чисел в Visual Studio 2015 на C++/CLI (Windows 10 UWP приложение)
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как создать приложение сложения двух чисел в Visual Studio 2015 на C++/CLI в виде универсального приложения под Windows 10 или Metro приложения приложения.
 
 ## Подготовка

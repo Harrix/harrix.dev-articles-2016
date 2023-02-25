@@ -13,6 +13,8 @@ lang: ru
 
 # Сложение двух чисел в C++ Builder 10 Seattle на C++
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как создать приложение сложения двух чисел в C++ Builder 10 Seattle.
 
 ## Создание нового приложения

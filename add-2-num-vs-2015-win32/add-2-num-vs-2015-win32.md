@@ -13,6 +13,8 @@ lang: ru
 
 # Сложение двух чисел в Visual Studio 2015 на C++ (Win32 WinAPI приложение)
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как создать Win32 приложение сложения двух чисел в Visual Studio 2015 на C++.
 
 Чтоб я еще когда-нибудь связался с этими Win32 приложениями! После опыта написания приложения прекрасно понимаю, почему никто не любит так программировать. Использовал, в частности, материал статей [этой](https://www.instructables.com/id/Making-a-simple-application-using-the-Win32-API/) и [этой](<https://docs.microsoft.com/en-us/previous-versions/bb384843(v=vs.140)>).
