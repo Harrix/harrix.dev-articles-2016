@@ -9,6 +9,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/qt-webengine/qt-webengine.md
 url: https://harrix.dev/ru/blog/2016/qt-webengine/
+lang: ru
 ---
 
 # Qt WebEngine в Qt Widgets приложении для просмотра веб-страниц

@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/icon-qt-android/icon-qt-android.md
 url: https://harrix.dev/ru/blog/2016/icon-qt-android/
+lang: ru
 ---
 
 # Как добавить иконку в приложение Qt под Android

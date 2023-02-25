@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-vs-2010-console/add-2-num-vs-2010-console.md
 url: https://harrix.dev/ru/blog/2016/add-2-num-vs-2010-console/
+lang: ru
 ---
 
 # Сложение двух чисел в Visual Studio 2010 (консольное Win32 приложение)

@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/xml-file-clr/xml-file-clr.md
 url: https://harrix.dev/ru/blog/2016/xml-file-clr/
+lang: ru
 ---
 
 # Разбор XML файла с применением классов на C++/CLI

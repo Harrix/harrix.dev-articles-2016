@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/new-class-clr-vs-2015/new-class-clr-vs-2015.md
 url: https://harrix.dev/ru/blog/2016/new-class-clr-vs-2015/
+lang: ru
 ---
 
 # Создание своего класса в CLR приложении в Visual Studio 2015 на C++/CLI

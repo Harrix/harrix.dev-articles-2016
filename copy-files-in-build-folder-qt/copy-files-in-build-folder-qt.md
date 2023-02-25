@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/copy-files-in-build-folder-qt/copy-files-in-build-folder-qt.md
 url: https://harrix.dev/ru/blog/2016/copy-files-in-build-folder-qt/
+lang: ru
 ---
 
 # Копирование файлов в build папку при компиляции проекта в Qt

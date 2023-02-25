@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/xml-file-vs-2015/xml-file-vs-2015.md
 url: https://harrix.dev/ru/blog/2016/xml-file-vs-2015/
+lang: ru
 ---
 
 # Пример разбора XML файла в Visual Studio 2015 на C++
