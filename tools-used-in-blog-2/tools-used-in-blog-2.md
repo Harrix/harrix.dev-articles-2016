@@ -47,6 +47,8 @@ function make_importanttext($content){
 
 ![Тэг importanttext](img/importanttext.png)
 
+_Рисунок 1 — Тэг importanttext_
+
 Также в тексте данной статьи вы можете найти более сложные примеры добавления своих шорткодов.
 
 Но лучше всего шорткоды добавлять официальным функционалом: <https://codex.wordpress.org/Shortcode_API>.
@@ -72,6 +74,8 @@ blockquote {
 
 ![Оформление цитаты](img/blockquote.png)
 
+_Рисунок 2 — Оформление цитаты_
+
 ## Видео на сайте
 
 Для отображения видео использую плагин [Responsive Video Shortcodes](https://wordpress.org/plugins/responsive-video-shortcodes/). Видео вписывается на всю ширину страницы и подгоняется под нужные размеры.
@@ -86,17 +90,23 @@ blockquote {
 
 ![Видео на сайте](img/vimeo.png)
 
+_Рисунок 3 — Видео на сайте_
+
 ## Для отображения содержимого документов
 
 Чтобы показать содержимое `.doc`, `.docx`, `.xls`, `.xlsx`, `.pdf` документов на сайте, использую плагин [Google Doc Embedder](https://wordpress.org/plugins/google-document-embedder/):
 
 ![Просмотр PDF на сайте](img/pdf.png)
 
+_Рисунок 4 — Просмотр PDF на сайте_
+
 ## Lightbox
 
 В качестве lightbox использую плагин [Responsive Lightbox by dFactory](https://wordpress.org/plugins/responsive-lightbox/):
 
 ![Lightbox](img/lightbox.png)
+
+_Рисунок 5 — Lightbox_
 
 Также использую дополнительный платный аддон для этого плагина `Responsive Lightbox - PhotoSwipe`.
 
@@ -180,6 +190,8 @@ function make_filename($content){
 
 ![Отображение тэгов important и filename](img/important-and-filename.png)
 
+_Рисунок 6 — Отображение тэгов important и filename_
+
 ## Кнопки «Скачать», «Демо», «Исходники»
 
 По аналогии с предыдущим случаем использую шорткоды для кнопок, что в заголовке прописаны:
@@ -231,6 +243,8 @@ function make_source($content){
 ```
 
 ![Кнопки «Скачать», «Демо», «Исходники»](img/demo.png)
+
+_Рисунок 7 — Кнопки «Скачать», «Демо», «Исходники»_
 
 ## Запрет обрамления картинок в тэг p
 
@@ -298,6 +312,8 @@ function add_favicon_harrix() {
 ```
 
 ![Цвет вкладки на смартфонах в Chrome](img/android.png)
+
+_Рисунок 8 — Цвет вкладки на смартфонах в Chrome_
 
 ## Добавление еще одного файла CSS в теме
 
