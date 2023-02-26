@@ -10,6 +10,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-devcpp/add-2-num-devcpp.md
 permalink: https://harrix.dev/ru/blog/2016/add-2-num-devcpp/
 lang: ru
+attribution:
+  - author: Remember the dot
+    author-site: https://en.wikipedia.org/wiki/User:Remember_the_dot
+    license: GNU General Public License
+    license-url: https://en.wikipedia.org/wiki/GNU_General_Public_License
+    permalink: https://commons.wikimedia.org/wiki/File:Dev-C%2B%2B_4.9.9.2_icon.png
+    permalink-date: 2019-06-22
+    name: Dev-C++ 4.9.9.2 icon.png
 ---
 
 # Сложение двух чисел в Dev-C++

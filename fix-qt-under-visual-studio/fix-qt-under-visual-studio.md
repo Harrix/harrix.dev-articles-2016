@@ -10,6 +10,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/fix-qt-under-visual-studio/fix-qt-under-visual-studio.md
 permalink: https://harrix.dev/ru/blog/2016/fix-qt-under-visual-studio/
 lang: ru
+attribution:
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Крякозябры в Qt под Visual Studio

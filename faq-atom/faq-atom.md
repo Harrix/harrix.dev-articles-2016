@@ -10,6 +10,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/faq-atom/faq-atom.md
 permalink: https://harrix.dev/ru/blog/2016/faq-atom/
 lang: ru
+attribution:
+  - author: Github
+    author-site: https://github.com/atom
+    license: MIT license
+    license-url: https://github.com/atom/atom/blob/master/LICENSE.md
+    permalink: https://commons.wikimedia.org/wiki/File:Atom_icon.svg
+    permalink-date: 2019-01-24
+    name: Atom icon.svg
 ---
 
 # Настройка Atom

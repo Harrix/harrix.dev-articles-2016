@@ -10,6 +10,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/md-in-notepad-plus-plus/md-in-notepad-plus-plus.md
 permalink: https://harrix.dev/ru/blog/2016/md-in-notepad-plus-plus/
 lang: ru
+attribution:
+  - author: Dustin Curtis
+    author-site: https://github.com/dcurtis
+    license: CC0
+    license-url: https://github.com/dcurtis/markdown-mark/blob/master/LICENSE
+    permalink: https://commons.wikimedia.org/wiki/File:Markdown-mark.svg
+    permalink-date: 2019-03-19
+    name: Markdown-mark.svg
 ---
 
 # Markdown в Notepad++

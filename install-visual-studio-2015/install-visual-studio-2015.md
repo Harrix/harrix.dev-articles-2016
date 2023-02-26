@@ -9,6 +9,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/install-visual-studio-2015/install-visual-studio-2015.md
 permalink: https://harrix.dev/ru/blog/2016/install-visual-studio-2015/
 lang: ru
+attribution:
+  - author: Microsoft Corporation
+    author-site: https://www.microsoft.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg
+    permalink-date: 2019-06-08
+    name: Visual Studio 2017 Logo.svg
 ---
 
 # Установка Visual Studio 2015 Community
