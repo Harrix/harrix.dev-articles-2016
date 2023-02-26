@@ -41,8 +41,9 @@ function make_importanttext($content){
 И теперь у вас будет такой шорткод:
 
 ```html
-[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст на несколько строк, поэтому распишу
-побольше текста. Думаю, что этого будет достаточно.[/importanttext]
+[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст
+на несколько строк, поэтому распишу побольше текста. Думаю, что этого будет
+достаточно.[/importanttext]
 ```
 
 ![Тэг importanttext](img/importanttext.png)
@@ -119,8 +120,16 @@ shareButtons: [
     label: "Опубликовать в ВКонтакте",
     url: "http://vk.com/share.php?url={{url}}&image={{image_url}}&title={{text}}&noparse=true",
   },
-  { id: "facebook", label: "Опубликовать в Facebook", url: "https://www.facebook.com/sharer/sharer.php?u={{url}}" },
-  { id: "twitter", label: "Опубликовать в Twitter", url: "https://twitter.com/intent/tweet?text={{text}}&url={{url}}" },
+  {
+    id: "facebook",
+    label: "Опубликовать в Facebook",
+    url: "https://www.facebook.com/sharer/sharer.php?u={{url}}",
+  },
+  {
+    id: "twitter",
+    label: "Опубликовать в Twitter",
+    url: "https://twitter.com/intent/tweet?text={{text}}&url={{url}}",
+  },
   { id: "download", label: "Скачать", url: "{{raw_image_url}}", download: !0 },
 ];
 ```
@@ -184,8 +193,8 @@ function make_filename($content){
 Пример использования шорткодов:
 
 ```html
-[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы называется
-[filename]custom_functions.php[/filename].
+[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы
+называется [filename]custom_functions.php[/filename].
 ```
 
 ![Отображение тэгов important и filename](img/important-and-filename.png)
