@@ -7,7 +7,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/git-worktree/git-worktree.md
+permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/git-worktree/git-worktree.md
 permalink: https://harrix.dev/ru/blog/2016/git-worktree/
 lang: ru
 ---
