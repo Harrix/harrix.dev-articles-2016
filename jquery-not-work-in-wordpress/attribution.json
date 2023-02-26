@@ -1,13 +1,13 @@
 {
-"attribution":[
-  {
-    "title": "Wordpress-Logo.svg",
-    "permalink": "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg",
-    "permalink-date": "2019-03-17",
-    "author": "WordPress",
-    "author-site": "https://wordpress.org/",
-    "license": "GNU General Public License",
-    "license-url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
-  }
-]
+  "attribution": [
+    {
+      "title": "Wordpress-Logo.svg",
+      "permalink": "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg",
+      "permalink-date": "2019-03-17",
+      "author": "WordPress",
+      "author-site": "https://wordpress.org/",
+      "license": "GNU General Public License",
+      "license-url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+    }
+  ]
 }
