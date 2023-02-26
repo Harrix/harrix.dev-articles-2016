@@ -7,7 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/jquery-not-work-in-wordpress/jquery-not-work-in-wordpress.md
-url: https://harrix.dev/ru/blog/2016/jquery-not-work-in-wordpress/
+permalink: https://harrix.dev/ru/blog/2016/jquery-not-work-in-wordpress/
 lang: ru
 ---
 
@@ -23,11 +23,11 @@ lang: ru
 
 ```html
 <script type="text/javascript">
-  $(document).ready(function() {
-    $("#search_input").focus(function() {
+  $(document).ready(function () {
+    $("#search_input").focus(function () {
       $("#search_input").animate({ width: "100px" });
     });
-    $("#search_input").blur(function() {
+    $("#search_input").blur(function () {
       $("#search_input").animate({ width: "30px" });
     });
   });
@@ -40,11 +40,11 @@ lang: ru
 
 ```html
 <script type="text/javascript">
-  jQuery(document).ready(function() {
-    jQuery("#search_input").focus(function() {
+  jQuery(document).ready(function () {
+    jQuery("#search_input").focus(function () {
       jQuery("#search_input").animate({ width: "100px" });
     });
-    jQuery("#search_input").blur(function() {
+    jQuery("#search_input").blur(function () {
       jQuery("#search_input").animate({ width: "30px" });
     });
   });
