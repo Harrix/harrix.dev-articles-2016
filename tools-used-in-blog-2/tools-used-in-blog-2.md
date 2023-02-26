@@ -12,13 +12,10 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/tools
 permalink: https://harrix.dev/ru/blog/2016/tools-used-in-blog-2/
 lang: ru
 attribution:
-  - author: WordPress
-    author-site: https://wordpress.org/
-    license: GNU General Public License
-    license-url: https://en.wikipedia.org/wiki/GNU_General_Public_License
-    permalink: https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg
-    permalink-date: 2019-03-17
-    name: Wordpress-Logo.svg
+- {author: WordPress, author-site: 'https://wordpress.org/', license: GNU General
+    Public License, license-url: 'https://en.wikipedia.org/wiki/GNU_General_Public_License',
+  permalink: 'https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg', permalink-date: 2019-03-17,
+  name: Wordpress-Logo.svg}
 ---
 
 # Инструменты, использованные в блоге на Wordpress. Часть 2

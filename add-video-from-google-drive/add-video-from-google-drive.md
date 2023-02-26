@@ -10,13 +10,9 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-v
 permalink: https://harrix.dev/ru/blog/2016/add-video-from-google-drive/
 lang: ru
 attribution:
-  - author: Google
-    author-site: https://www.google.com/
-    license: Public domain
-    license-url: https://en.wikipedia.org/wiki/Public_domain
-    permalink: https://commons.wikimedia.org/wiki/File:Google_Drive_Logo.svg
-    permalink-date: 2019-06-19
-    name: Google Drive Logo.svg
+- {author: Google, author-site: 'https://www.google.com/', license: Public domain,
+  license-url: 'https://en.wikipedia.org/wiki/Public_domain', permalink: 'https://commons.wikimedia.org/wiki/File:Google_Drive_Logo.svg',
+  permalink-date: 2019-06-19, name: Google Drive Logo.svg}
 ---
 
 # Как добавить на сайт видео из Google Drive
