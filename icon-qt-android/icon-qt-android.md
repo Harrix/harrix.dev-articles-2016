@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/icon-qt-android/icon-qt-android.md
-permalink: https://harrix.dev/ru/blog/2016/icon-qt-android/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/icon-qt-android/icon-qt-android.md
+permalink: https://harrix.dev/ru/articles/2016/icon-qt-android/
 lang: ru
 attribution:
   - {
@@ -36,7 +36,7 @@ attribution:
 
 Чтобы добавить иконку в приложение, например, под Windows в Qt нужно просто добавить ICO файл и прописать его в PRO файле. C Android так не прокатит, так как там иконки надо прописывать через создание `AndroidManifest.xml`.
 
-Итак, у нас есть какой-то Qt проект. Я буду рассматривать на примере приложения под Qt Quick Controls 2 на Qt 5.7, но для других случаев будет то же самое. Предполагаю, что вы уже [запускали приложение Qt под Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-advanced/install-qt-advanced.md) <!-- https://harrix.dev/ru/blog/2018/install-qt-advanced/ --> и у вас всё работает. Просто иконка стандартная, а не такая, какая вам нужно.
+Итак, у нас есть какой-то Qt проект. Я буду рассматривать на примере приложения под Qt Quick Controls 2 на Qt 5.7, но для других случаев будет то же самое. Предполагаю, что вы уже [запускали приложение Qt под Android](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-advanced/install-qt-advanced.md) <!-- https://harrix.dev/ru/articles/2018/install-qt-advanced/ --> и у вас всё работает. Просто иконка стандартная, а не такая, какая вам нужно.
 
 Проверяем, что приложение у нас будет компилироваться под `Release` режимом под ту платформу, что вам нужно:
 

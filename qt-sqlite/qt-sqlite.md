@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/qt-sqlite/qt-sqlite.md
-permalink: https://harrix.dev/ru/blog/2016/qt-sqlite/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/qt-sqlite/qt-sqlite.md
+permalink: https://harrix.dev/ru/articles/2016/qt-sqlite/
 lang: ru
 ---
 
@@ -21,7 +21,7 @@ lang: ru
 
 ## Подготовка базы данных
 
-В [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/db-browser-for-sqlite/db-browser-for-sqlite.md) <!-- https://harrix.dev/ru/blog/2016/db-browser-for-sqlite/ --> рассказывается, как создавать базы данных заранее и заполнять их в специальной программе (одной из многих).
+В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/db-browser-for-sqlite/db-browser-for-sqlite.md) <!-- https://harrix.dev/ru/articles/2016/db-browser-for-sqlite/ --> рассказывается, как создавать базы данных заранее и заполнять их в специальной программе (одной из многих).
 
 В данной статье будем придерживаться именно этой идеологии: проектирование базы данных и её создание мы осуществляем не в Qt.
 
@@ -140,4 +140,4 @@ while (query.next()) {
 
 _Рисунок 12 — Результат работы программы_
 
-P.S. В [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) <!-- https://harrix.dev/ru/blog/2014/output-data-to-qtableview/ --> рассказывается, как закидывать данные в таблицу в компонент `QTableView`.
+P.S. В [статье](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) <!-- https://harrix.dev/ru/articles/2014/output-data-to-qtableview/ --> рассказывается, как закидывать данные в таблицу в компонент `QTableView`.

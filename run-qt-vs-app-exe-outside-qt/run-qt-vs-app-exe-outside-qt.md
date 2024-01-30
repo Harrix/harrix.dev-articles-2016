@@ -8,20 +8,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/run-qt-vs-app-exe-outside-qt/run-qt-vs-app-exe-outside-qt.md
-permalink: https://harrix.dev/ru/blog/2016/run-qt-vs-app-exe-outside-qt/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/run-qt-vs-app-exe-outside-qt/run-qt-vs-app-exe-outside-qt.md
+permalink: https://harrix.dev/ru/articles/2016/run-qt-vs-app-exe-outside-qt/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - { author: Microsoft Corporation, author-site: "https://www.microsoft.com/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg", permalink-date: 2019-06-08, name: Visual Studio 2017 Logo.svg }
 ---
 
 # Запуск Qt приложений под Visual Studio .exe вне Qt Creator
@@ -30,7 +22,7 @@ attribution:
 
 В статье рассказывается как запускать приложения, созданные в Qt под Visual Studio без самого Qt Creator. Или же приложения должны запускаться на компах, где нет Qt.
 
-Для версии Qt под компилятор MinGW читайте статью [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) <!-- https://harrix.dev/ru/blog/2014/run-qt-app-exe-outside-qt/ -->.
+Для версии Qt под компилятор MinGW читайте статью [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) <!-- https://harrix.dev/ru/articles/2014/run-qt-app-exe-outside-qt/ -->.
 
 Тут расскажу о самом механизме нахождения DLL, так как Qt активно развивается и регулярно новые версии выпускает и под каждую версию писать статью о новом наборе DLL накладно.
 

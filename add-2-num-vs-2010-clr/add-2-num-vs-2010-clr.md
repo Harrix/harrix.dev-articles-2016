@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-vs-2010-clr/add-2-num-vs-2010-clr.md
-permalink: https://harrix.dev/ru/blog/2016/add-2-num-vs-2010-clr/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-vs-2010-clr/add-2-num-vs-2010-clr.md
+permalink: https://harrix.dev/ru/articles/2016/add-2-num-vs-2010-clr/
 lang: ru
 ---
 
@@ -17,7 +17,7 @@ lang: ru
 
 В статье рассказывается как создать CLR приложение сложения двух чисел в Visual Studio 2010 на C++.
 
-Обратите внимание на то, что данная инструкция работает для Visual Studio 2010. Для более поздних версий она не будет работать, так как там можно создавать лишь пустые CLR приложения, и там инструкция более сложная. Для поздних версий смотрите, например, [эту](https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2-num-vs-2013-clr/add-2-num-vs-2013-clr.md) <!-- https://harrix.dev/ru/blog/2015/add-2-num-vs-2013-clr/ --> инструкцию.
+Обратите внимание на то, что данная инструкция работает для Visual Studio 2010. Для более поздних версий она не будет работать, так как там можно создавать лишь пустые CLR приложения, и там инструкция более сложная. Для поздних версий смотрите, например, [эту](https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-vs-2013-clr/add-2-num-vs-2013-clr.md) <!-- https://harrix.dev/ru/articles/2015/add-2-num-vs-2013-clr/ --> инструкцию.
 
 ## Создание проекта
 

@@ -8,20 +8,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/tools-used-in-blog-2/tools-used-in-blog-2.md
-permalink: https://harrix.dev/ru/blog/2016/tools-used-in-blog-2/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/tools-used-in-blog-2/tools-used-in-blog-2.md
+permalink: https://harrix.dev/ru/articles/2016/tools-used-in-blog-2/
 lang: ru
 attribution:
-  - {
-      author: WordPress,
-      author-site: "https://wordpress.org/",
-      license: GNU General
-        Public License,
-      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
-      permalink: "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg",
-      permalink-date: 2019-03-17,
-      name: Wordpress-Logo.svg,
-    }
+  - { author: WordPress, author-site: "https://wordpress.org/", license: GNU General
+        Public License, license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License", permalink: "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg", permalink-date: 2019-03-17, name: Wordpress-Logo.svg }
 ---
 
 # Инструменты, использованные в блоге на Wordpress. Часть 2
@@ -52,9 +44,8 @@ function make_importanttext($content){
 И теперь у вас будет такой шорткод:
 
 ```html
-[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст
-на несколько строк, поэтому распишу побольше текста. Думаю, что этого будет
-достаточно.[/importanttext]
+[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст на несколько строк, поэтому распишу
+побольше текста. Думаю, что этого будет достаточно.[/importanttext]
 ```
 
 ![Тэг importanttext](img/importanttext.png)
@@ -67,7 +58,7 @@ _Рисунок 1 — Тэг importanttext_
 
 ## Отображение файлов Markdown \*.md в WordPress
 
-Читайте в [статье](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md) <!-- https://harrix.dev/ru/blog/2014/show-pdf-from-github/ -->.
+Читайте в [статье](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md) <!-- https://harrix.dev/ru/articles/2014/show-pdf-from-github/ -->.
 
 ## Оформление цитат
 
@@ -204,8 +195,8 @@ function make_filename($content){
 Пример использования шорткодов:
 
 ```html
-[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы
-называется [filename]custom_functions.php[/filename].
+[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы называется
+[filename]custom_functions.php[/filename].
 ```
 
 ![Отображение тэгов important и filename](img/important-and-filename.png)

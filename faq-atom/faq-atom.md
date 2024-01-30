@@ -7,8 +7,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/faq-atom/faq-atom.md
-permalink: https://harrix.dev/ru/blog/2016/faq-atom/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/faq-atom/faq-atom.md
+permalink: https://harrix.dev/ru/articles/2016/faq-atom/
 lang: ru
 attribution:
   - {
@@ -30,7 +30,7 @@ attribution:
 
 ## Введение
 
-Первым продвинутым блокнотом, которым я начал активно пользоваться, был [Notepad++](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-notepad-plus-plus/faq-notepad-plus-plus.md) <!-- https://harrix.dev/ru/blog/2013/faq-notepad-plus-plus/ --> (до сих пор им часто пользуюсь), потом пытался перейти на [Sublime Text](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-sublime-text-2/faq-sublime-text-2.md) <!-- https://harrix.dev/ru/blog/2013/faq-sublime-text-2/ -->. А потом пробовал перейти на Atom, про который говорится в этой статье.
+Первым продвинутым блокнотом, которым я начал активно пользоваться, был [Notepad++](https://github.com/Harrix/harrix.dev-articles-2013/blob/main/faq-notepad-plus-plus/faq-notepad-plus-plus.md) <!-- https://harrix.dev/ru/articles/2013/faq-notepad-plus-plus/ --> (до сих пор им часто пользуюсь), потом пытался перейти на [Sublime Text](https://github.com/Harrix/harrix.dev-articles-2013/blob/main/faq-sublime-text-2/faq-sublime-text-2.md) <!-- https://harrix.dev/ru/articles/2013/faq-sublime-text-2/ -->. А потом пробовал перейти на Atom, про который говорится в этой статье.
 
 И да. Потом я всё равно перешел на Visual Studio Code.
 

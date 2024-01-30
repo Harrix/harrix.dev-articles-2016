@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/class-with-instance-vector-clr/class-with-instance-vector-clr.md
-permalink: https://harrix.dev/ru/blog/2016/class-with-instance-vector-clr/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/class-with-instance-vector-clr/class-with-instance-vector-clr.md
+permalink: https://harrix.dev/ru/articles/2016/class-with-instance-vector-clr/
 lang: ru
 ---
 
@@ -17,7 +17,7 @@ lang: ru
 
 Не люблю C++/CLI. Но иногда приходится и с ним сталкиваться. В статье покажу пример класса с вектором экземпляров другого класса.
 
-Данная статья построена на базе другой статьи [Создание своего класса в CLR приложении в Visual Studio 2015 на C++/CLI](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/new-class-clr-vs-2015/new-class-clr-vs-2015.md) <!-- https://harrix.dev/ru/blog/2016/new-class-clr-vs-2015/ -->. Так что вначале посмотрите её.
+Данная статья построена на базе другой статьи [Создание своего класса в CLR приложении в Visual Studio 2015 на C++/CLI](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/new-class-clr-vs-2015/new-class-clr-vs-2015.md) <!-- https://harrix.dev/ru/articles/2016/new-class-clr-vs-2015/ -->. Так что вначале посмотрите её.
 
 Там показан пример класса, который принимает в качестве параметра строку с именем файла и может возвращать расширение файла.
 

@@ -6,20 +6,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-vs-2015-cpp-uwp/add-2-num-vs-2015-cpp-uwp.md
-permalink: https://harrix.dev/ru/blog/2016/add-2-num-vs-2015-cpp-uwp/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-vs-2015-cpp-uwp/add-2-num-vs-2015-cpp-uwp.md
+permalink: https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-cpp-uwp/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - { author: Microsoft Corporation, author-site: "https://www.microsoft.com/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg", permalink-date: 2019-06-08, name: Visual Studio 2017 Logo.svg }
 ---
 
 # Сложение двух чисел в Visual Studio 2015 на C++/CLI (Windows 10 UWP приложение)

@@ -7,8 +7,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/qjsengine/qjsengine.md
-permalink: https://harrix.dev/ru/blog/2016/qjsengine/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/qjsengine/qjsengine.md
+permalink: https://harrix.dev/ru/articles/2016/qjsengine/
 lang: ru
 ---
 
@@ -18,7 +18,7 @@ lang: ru
 
 Стандартный интерпретатор в Qt (QtScript) устарел. Теперь вместо него QJSEngine. В статье рассказывается, как с ним работать при вычислении выражений.
 
-Статья по содержанию совпадает со статьей [Интерпретатор функции в Qt — QtScript](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/qtscript/qtscript.md) <!-- https://harrix.dev/ru/blog/2014/qtscript/ -->, где рассказывается про QtScript.
+Статья по содержанию совпадает со статьей [Интерпретатор функции в Qt — QtScript](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/qtscript/qtscript.md) <!-- https://harrix.dev/ru/articles/2014/qtscript/ -->, где рассказывается про QtScript.
 
 Мы будем рассматривать простые математические пользовательские функции с одной и двумя переменными. По аналогии с ними вы сможете модифицировать код под себя.
 

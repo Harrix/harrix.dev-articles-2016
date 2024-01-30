@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/xml-file-vs-2015/xml-file-vs-2015.md
-permalink: https://harrix.dev/ru/blog/2016/xml-file-vs-2015/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/xml-file-vs-2015/xml-file-vs-2015.md
+permalink: https://harrix.dev/ru/articles/2016/xml-file-vs-2015/
 lang: ru
 ---
 
@@ -49,7 +49,7 @@ lang: ru
 
 Данная статья написана по мотивам [официальной документации](https://support.microsoft.com/ru-ru/help/815658/how-to-read-the-xml-data-from-a-file-by-using-visual-c). Так что можете обратиться к ней для получения дополнительной информации.
 
-Итак, создайте пустое приложение CLR с формой. Это можно сделать по [статье](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-vs-2015-clr/add-2-num-vs-2015-clr.md) <!-- https://harrix.dev/ru/blog/2016/add-2-num-vs-2015-clr/ -->, дойдя в ней до пункта «Интерфейс приложения».
+Итак, создайте пустое приложение CLR с формой. Это можно сделать по [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-vs-2015-clr/add-2-num-vs-2015-clr.md) <!-- https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-clr/ -->, дойдя в ней до пункта «Интерфейс приложения».
 
 ## Интерфейс приложения
 
@@ -455,4 +455,4 @@ _Рисунок 19 — Результат работы программы_
 - Внутри класса ничего никуда не выводится, но методы возвращают строчки с текстом, который нужно вывести.
 - Диалоговое окно вызывается внутри кнопки формы.
 
-Предвижу, что может возникнуть определенная путаница, поэтому посмотрите эту [статью](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/new-class-clr-vs-2015/new-class-clr-vs-2015.md) <!-- https://harrix.dev/ru/blog/2016/new-class-clr-vs-2015/ -->.
+Предвижу, что может возникнуть определенная путаница, поэтому посмотрите эту [статью](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/new-class-clr-vs-2015/new-class-clr-vs-2015.md) <!-- https://harrix.dev/ru/articles/2016/new-class-clr-vs-2015/ -->.

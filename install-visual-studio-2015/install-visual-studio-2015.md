@@ -6,20 +6,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/install-visual-studio-2015/install-visual-studio-2015.md
-permalink: https://harrix.dev/ru/blog/2016/install-visual-studio-2015/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/install-visual-studio-2015/install-visual-studio-2015.md
+permalink: https://harrix.dev/ru/articles/2016/install-visual-studio-2015/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - { author: Microsoft Corporation, author-site: "https://www.microsoft.com/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg", permalink-date: 2019-06-08, name: Visual Studio 2017 Logo.svg }
 ---
 
 # Установка Visual Studio 2015 Community
@@ -28,9 +20,9 @@ attribution:
 
 В статье приведена инструкция по установке бесплатной версии Visual Studio 2015 Community на Windows 10 для программирования на C++.
 
-**Внимание!** Вышла Visual Studio 2019. [Читайте](https://github.com/Harrix/harrix.dev-blog-2021/blob/main/install-visual-studio-2019/install-visual-studio-2019.md) <!-- https://harrix.dev/ru/blog/2021/install-visual-studio-2019/ --> более новую статью.
+**Внимание!** Вышла Visual Studio 2019. [Читайте](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-visual-studio-2019/install-visual-studio-2019.md) <!-- https://harrix.dev/ru/articles/2021/install-visual-studio-2019/ --> более новую статью.
 
-Если вам нужна именно версия 2015 года, то читайте эту статью: [Скачивание старых версий Visual Studio](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/download-old-versions-vs/download-old-versions-vs.md) <!-- https://harrix.dev/ru/blog/2018/download-old-versions-vs/ -->.
+Если вам нужна именно версия 2015 года, то читайте эту статью: [Скачивание старых версий Visual Studio](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/download-old-versions-vs/download-old-versions-vs.md) <!-- https://harrix.dev/ru/articles/2018/download-old-versions-vs/ -->.
 
 Далее идет старая инструкция, как устанавливать Visual Studio 2015 после скачивания инсталлятора.
 
@@ -178,4 +170,4 @@ _Рисунок 23 — Конец установки_
 
 Можете попробовать создать простое консольное приложение по уроку:
 
-[Создание консольного приложения сложения двух чисел Win32 в Visual Studio 2013](https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2-num-vs-2013-console/add-2-num-vs-2013-console.md) <!-- https://harrix.dev/ru/blog/2015/add-2-num-vs-2013-console/ -->.
+[Создание консольного приложения сложения двух чисел Win32 в Visual Studio 2013](https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-vs-2013-console/add-2-num-vs-2013-console.md) <!-- https://harrix.dev/ru/articles/2015/add-2-num-vs-2013-console/ -->.

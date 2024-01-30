@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/git-worktree-github-pages/git-worktree-github-pages.md
-permalink: https://harrix.dev/ru/blog/2016/git-worktree-github-pages/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/git-worktree-github-pages/git-worktree-github-pages.md
+permalink: https://harrix.dev/ru/articles/2016/git-worktree-github-pages/
 lang: ru
 ---
 

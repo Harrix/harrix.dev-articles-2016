@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-c-builder-6-console/add-2-num-c-builder-6-console.md
-permalink: https://harrix.dev/ru/blog/2016/add-2-num-c-builder-6-console/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-c-builder-6-console/add-2-num-c-builder-6-console.md
+permalink: https://harrix.dev/ru/articles/2016/add-2-num-c-builder-6-console/
 lang: ru
 ---
 

@@ -6,20 +6,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-vs-2015-console/add-2-num-vs-2015-console.md
-permalink: https://harrix.dev/ru/blog/2016/add-2-num-vs-2015-console/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-vs-2015-console/add-2-num-vs-2015-console.md
+permalink: https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-console/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - { author: Microsoft Corporation, author-site: "https://www.microsoft.com/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg", permalink-date: 2019-06-08, name: Visual Studio 2017 Logo.svg }
 ---
 
 # Сложение двух чисел в Visual Studio 2015 на C++ (консольное Win32 приложение)
@@ -32,7 +24,7 @@ attribution:
 
 **Внимание!** <!-- !important -->
 
-Посмотрите более новую [статью](https://github.com/Harrix/harrix.dev-blog-2017/blob/main/add-2-num-vs-2015-console-2/add-2-num-vs-2015-console-2.md) <!-- https://harrix.dev/ru/blog/2017/add-2-num-vs-2015-console-2/ -->, где приводится пример приложения без использования `stdafx.h`.
+Посмотрите более новую [статью](https://github.com/Harrix/harrix.dev-articles-2017/blob/main/add-2-num-vs-2015-console-2/add-2-num-vs-2015-console-2.md) <!-- https://harrix.dev/ru/articles/2017/add-2-num-vs-2015-console-2/ -->, где приводится пример приложения без использования `stdafx.h`.
 
 ---
 
