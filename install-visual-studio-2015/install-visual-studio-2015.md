@@ -20,9 +20,9 @@ attribution:
 
 В статье приведена инструкция по установке бесплатной версии Visual Studio 2015 Community на Windows 10 для программирования на C++.
 
-**Внимание!** Вышла Visual Studio 2019. [Читайте](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-visual-studio-2019/install-visual-studio-2019.md) <!-- https://harrix.dev/ru/articles/2021/install-visual-studio-2019/ --> более новую статью.
+**Внимание!** Вышла Visual Studio 2019. [Читайте](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-visual-studio-2019/install-visual-studio-2019.md)<!-- https://harrix.dev/ru/articles/2021/install-visual-studio-2019/ --> более новую статью.
 
-Если вам нужна именно версия 2015 года, то читайте эту статью: [Скачивание старых версий Visual Studio](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/download-old-versions-vs/download-old-versions-vs.md) <!-- https://harrix.dev/ru/articles/2018/download-old-versions-vs/ -->.
+Если вам нужна именно версия 2015 года, то читайте эту статью: [Скачивание старых версий Visual Studio](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/download-old-versions-vs/download-old-versions-vs.md)<!-- https://harrix.dev/ru/articles/2018/download-old-versions-vs/ -->.
 
 Далее идет старая инструкция, как устанавливать Visual Studio 2015 после скачивания инсталлятора.
 
@@ -170,4 +170,4 @@ _Рисунок 23 — Конец установки_
 
 Можете попробовать создать простое консольное приложение по уроку:
 
-[Создание консольного приложения сложения двух чисел Win32 в Visual Studio 2013](https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-vs-2013-console/add-2-num-vs-2013-console.md) <!-- https://harrix.dev/ru/articles/2015/add-2-num-vs-2013-console/ -->.
+[Создание консольного приложения сложения двух чисел Win32 в Visual Studio 2013](https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-vs-2013-console/add-2-num-vs-2013-console.md)<!-- https://harrix.dev/ru/articles/2015/add-2-num-vs-2013-console/ -->.

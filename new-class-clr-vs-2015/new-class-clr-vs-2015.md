@@ -23,7 +23,7 @@ lang: ru
 
 ## Болванка приложения
 
-Итак, создайте пустое приложение CLR с формой. Это можно сделать по [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-vs-2015-clr/add-2-num-vs-2015-clr.md) <!-- https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-clr/ --> дойдя в ней до пункта «Интерфейс приложения».
+Итак, создайте пустое приложение CLR с формой. Это можно сделать по [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-vs-2015-clr/add-2-num-vs-2015-clr.md)<!-- https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-clr/ --> дойдя в ней до пункта «Интерфейс приложения».
 
 ## Интерфейс программы
 

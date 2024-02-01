@@ -25,9 +25,9 @@ attribution:
 
 ![Featured image](featured-image.svg)
 
-Это укороченный вариант [статьи](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md) <!-- https://harrix.dev/ru/articles/2016/add-2-num-qt-quick/ -->. Там рассматривается конкретный пример работающего приложения, а здесь расписывается без воды, как добавить C++ часть в приложение Qt Quick.
+Это укороченный вариант [статьи](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md)<!-- https://harrix.dev/ru/articles/2016/add-2-num-qt-quick/ -->. Там рассматривается конкретный пример работающего приложения, а здесь расписывается без воды, как добавить C++ часть в приложение Qt Quick.
 
-В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) <!-- https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/ --> рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
+В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md)<!-- https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/ --> рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
 
 - Создайте приложение `Qt Quick Application`.
 

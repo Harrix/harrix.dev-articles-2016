@@ -24,7 +24,7 @@ attribution:
 
 **Внимание!** <!-- !important -->
 
-Посмотрите более новую [статью](https://github.com/Harrix/harrix.dev-articles-2017/blob/main/add-2-num-vs-2015-console-2/add-2-num-vs-2015-console-2.md) <!-- https://harrix.dev/ru/articles/2017/add-2-num-vs-2015-console-2/ -->, где приводится пример приложения без использования `stdafx.h`.
+Посмотрите более новую [статью](https://github.com/Harrix/harrix.dev-articles-2017/blob/main/add-2-num-vs-2015-console-2/add-2-num-vs-2015-console-2.md)<!-- https://harrix.dev/ru/articles/2017/add-2-num-vs-2015-console-2/ -->, где приводится пример приложения без использования `stdafx.h`.
 
 ---
 

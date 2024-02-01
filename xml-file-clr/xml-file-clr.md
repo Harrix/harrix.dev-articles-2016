@@ -15,7 +15,7 @@ lang: ru
 
 ![Featured image](featured-image.svg)
 
-Продолжаем статью [Пример разбора XML файла в Visual Studio 2015 на C++](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/xml-file-vs-2015/xml-file-vs-2015.md) <!-- https://harrix.dev/ru/articles/2016/xml-file-vs-2015/ -->.
+Продолжаем статью [Пример разбора XML файла в Visual Studio 2015 на C++](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/xml-file-vs-2015/xml-file-vs-2015.md)<!-- https://harrix.dev/ru/articles/2016/xml-file-vs-2015/ -->.
 
 В статье не будет особо комментариев и подробностей ввиду определенных причин.
 
