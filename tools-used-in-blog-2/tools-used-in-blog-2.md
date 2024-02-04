@@ -58,7 +58,7 @@ _Рисунок 1 — Тэг importanttext_
 
 ## Отображение файлов Markdown \*.md в WordPress
 
-Читайте в [статье](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md)<!-- https://harrix.dev/ru/articles/2014/show-pdf-from-github/ -->.
+Читайте в [статье](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md) | [🡥](https://harrix.dev/ru/articles/2014/show-pdf-from-github/).
 
 ## Оформление цитат
 
