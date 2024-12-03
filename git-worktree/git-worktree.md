@@ -20,7 +20,7 @@ lang: ru
 
 Оказывается, что есть команда, которая именно это и делает:
 
-```powershell
+```cmd
 git worktree add ../[NewFolder] [commit]
 ```
 
@@ -46,7 +46,7 @@ _Рисунок 3 — Папки репозитория_
 
 И в консоли вызываю подобную команду:
 
-```powershell
+```cmd
 git worktree add ../Harrix-Rainmeter-Skin_commit 612d5735213443ed6f488e461ab5b4fd9f94ac75
 ```
 

@@ -111,7 +111,7 @@ textBox1->Text += vec->vectorExampleClass->at(1)->getFileExtension() + "\r\n";
 
 При запуске приложения и нажатии на кнопку программа выдаст такой ответ:
 
-```powershell
+```cmd
 .txt
 .xml
 ```
@@ -144,7 +144,7 @@ for (int i = 0; i < size; i++) {
 
 Программа выдаст такое:
 
-```powershell
+```cmd
 .0ext
 .1ext
 .2ext
