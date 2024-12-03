@@ -12,16 +12,8 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/r
 permalink: https://harrix.dev/ru/articles/2016/run-qt-vs-app-exe-outside-qt/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - { author: Microsoft Corporation, author-site: "https://www.microsoft.com/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg", permalink-date: 2019-06-08, name: Visual Studio 2017 Logo.svg }
 ---
 
 # Запуск Qt приложений под Visual Studio .exe вне Qt Creator
@@ -102,7 +94,7 @@ _Рисунок 8 — Папка с EXE файлом_
 
 Теперь можно в командной строке вызвать `windeployqt` с указанием папки с EXE файлом:
 
-```console
+```powershell
 windeployqt D:\Harrix\Projects\Qt\untitled\_build\release --compiler-runtime
 ```
 
@@ -118,7 +110,7 @@ _Рисунок 10 — Папка с EXE файлом и DLL_
 
 Если у вас приложение с использованием QML, то нужен параметр `--qmldir` с указанием папки, где хранятся `.qml` файлы:
 
-```console
+```powershell
 windeployqt --compiler-runtime --qmldir D:\Harrix\Projects\Qt\untitled D:\Harrix\Projects\Qt\untitled\_build\release
 ```
 
