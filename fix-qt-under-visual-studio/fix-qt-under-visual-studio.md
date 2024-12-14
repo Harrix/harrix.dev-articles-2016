@@ -103,7 +103,7 @@ When executing step "Run windeployqt"
 
 Выкачать можно с помощью консоли Git:
 
-```cmd
+```shell
 git clone https://github.com/qt-labs/jom
 ```
 
