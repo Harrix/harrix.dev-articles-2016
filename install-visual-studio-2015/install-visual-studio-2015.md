@@ -10,16 +10,8 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/i
 permalink: https://harrix.dev/ru/articles/2016/install-visual-studio-2015/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - { author: Microsoft Corporation, author-site: "https://www.microsoft.com/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg", permalink-date: 2019-06-08, name: Visual Studio 2017 Logo.svg }
 ---
 
 # Установка Visual Studio 2015 Community
@@ -68,9 +60,8 @@ _Рисунок 5 — Параметры по умолчанию_
 
 `Внимание!` Если вы разбираетесь в теме, то можно выбрать выборочную установку и сократить себе шаги, описанные ниже. О параметрах выборочной установки под спойлером.
 
----
-
-**Выборочная установка** <!-- !details -->
+<details>
+<summary>Выборочная установка</summary>
 
 ![Выбор типа установки](img/custom-install_01.png)
 
@@ -92,7 +83,7 @@ _Рисунок 9 — Выбор настроек_
 
 _Рисунок 10 — Процесс установки_
 
----
+</details>
 
 И установка началась:
 

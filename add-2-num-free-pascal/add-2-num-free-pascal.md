@@ -26,9 +26,8 @@ lang: ru
 
 Под спойлером находится краткое описание установки программы.
 
----
-
-**Установка Free Pascal IDE** <!-- !details -->
+<details>
+<summary>Установка Free Pascal IDE</summary>
 
 Скачиваем программу тут: <https://sourceforge.net/projects/freepascal/files/?source=navbar>:
 
@@ -78,7 +77,7 @@ _Рисунок 10 — Установка программы_
 
 _Рисунок 11 — Завершение установки_
 
----
+</details>
 
 ## Создаем проект
 
