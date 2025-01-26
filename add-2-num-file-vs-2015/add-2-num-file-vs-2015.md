@@ -1,7 +1,13 @@
 ---
 date: 2016-06-05
-categories: [it, programming]
-tags: [Visual Studio, C++, Сложение двух чисел, Работа с файлами]
+categories:
+  - it
+  - programming
+tags:
+  - Visual Studio
+  - C++
+  - Сложение двух чисел
+  - Работа с файлами
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,16 +16,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/a
 permalink: https://harrix.dev/ru/articles/2016/add-2-num-file-vs-2015/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - author: Microsoft Corporation
+    author-site: https://www.microsoft.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg
+    permalink-date: 2019-06-08
+    name: Visual Studio 2017 Logo.svg
 ---
 
 # Сложение двух чисел из файла в Visual Studio 2015 на C++ (консольное Win32 приложение)

@@ -1,7 +1,12 @@
 ---
 date: 2016-09-21
-categories: [it, program]
-tags: [Atom, Текстовой редактор, FAQ]
+categories:
+  - it
+  - program
+tags:
+  - Atom
+  - Текстовой редактор
+  - FAQ
 update: 2018-11-24
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,15 +16,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/f
 permalink: https://harrix.dev/ru/articles/2016/faq-atom/
 lang: ru
 attribution:
-  - {
-      author: Github,
-      author-site: "https://github.com/atom",
-      license: MIT license,
-      license-url: "https://github.com/atom/atom/blob/master/LICENSE.md",
-      permalink: "https://commons.wikimedia.org/wiki/File:Atom_icon.svg",
-      permalink-date: 2019-01-24,
-      name: Atom icon.svg,
-    }
+  - author: Github
+    author-site: https://github.com/atom
+    license: MIT license
+    license-url: https://github.com/atom/atom/blob/master/LICENSE.md
+    permalink: https://commons.wikimedia.org/wiki/File:Atom_icon.svg
+    permalink-date: 2019-01-24
+    name: Atom icon.svg
 ---
 
 # Настройка Atom

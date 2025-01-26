@@ -1,7 +1,11 @@
 ---
 date: 2016-03-22
-categories: [it, programming]
-tags: [SQLite, Qt]
+categories:
+  - it
+  - programming
+tags:
+  - SQLite
+  - Qt
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

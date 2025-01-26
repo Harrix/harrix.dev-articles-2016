@@ -1,7 +1,11 @@
 ---
 date: 2016-03-26
-categories: [it, programming]
-tags: [Qt, Базы данных]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - Базы данных
 update: 2019-08-07
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

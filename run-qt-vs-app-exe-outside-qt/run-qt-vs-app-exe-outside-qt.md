@@ -1,7 +1,11 @@
 ---
 date: 2016-03-20
-categories: [it, programming]
-tags: [Qt, Visual Studio]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - Visual Studio
 related-id: start-qt
 update: 2018
 author: Anton Sergienko
@@ -12,16 +16,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/r
 permalink: https://harrix.dev/ru/articles/2016/run-qt-vs-app-exe-outside-qt/
 lang: ru
 attribution:
-  - {
-      author: Microsoft Corporation,
-      author-site: "https://www.microsoft.com/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg",
-      permalink-date: 2019-06-08,
-      name: Visual Studio 2017 Logo.svg,
-    }
+  - author: Microsoft Corporation
+    author-site: https://www.microsoft.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Visual_Studio_2017_Logo.svg
+    permalink-date: 2019-06-08
+    name: Visual Studio 2017 Logo.svg
 ---
 
 # Запуск Qt приложений под Visual Studio .exe вне Qt Creator

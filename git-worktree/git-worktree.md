@@ -1,7 +1,11 @@
 ---
 date: 2016-08-01
-categories: [it, programming]
-tags: [Git, GitHub]
+categories:
+  - it
+  - programming
+tags:
+  - Git
+  - GitHub
 update: 2019-10-12
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

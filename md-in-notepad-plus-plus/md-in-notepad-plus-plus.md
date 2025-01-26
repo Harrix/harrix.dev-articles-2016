@@ -1,7 +1,13 @@
 ---
 date: 2016-01-02
-categories: [it, program]
-tags: [Notepad++, Текстовой редактор, Markdown, Подсветка синтаксиса]
+categories:
+  - it
+  - program
+tags:
+  - Notepad++
+  - Текстовой редактор
+  - Markdown
+  - Подсветка синтаксиса
 related-id: notepad-highlight
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,15 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/m
 permalink: https://harrix.dev/ru/articles/2016/md-in-notepad-plus-plus/
 lang: ru
 attribution:
-  - {
-      author: Dustin Curtis,
-      author-site: "https://github.com/dcurtis",
-      license: CC0,
-      license-url: "https://github.com/dcurtis/markdown-mark/blob/master/LICENSE",
-      permalink: "https://commons.wikimedia.org/wiki/File:Markdown-mark.svg",
-      permalink-date: 2019-03-19,
-      name: Markdown-mark.svg,
-    }
+  - author: Dustin Curtis
+    author-site: https://github.com/dcurtis
+    license: CC0
+    license-url: https://github.com/dcurtis/markdown-mark/blob/master/LICENSE
+    permalink: https://commons.wikimedia.org/wiki/File:Markdown-mark.svg
+    permalink-date: 2019-03-19
+    name: Markdown-mark.svg
 ---
 
 # Markdown в Notepad++

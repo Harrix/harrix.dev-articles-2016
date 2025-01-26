@@ -1,7 +1,12 @@
 ---
 date: 2016-07-31
-categories: [it, programming]
-tags: [Qt, Visual Studio, Крякозябры]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - Visual Studio
+  - Крякозябры
 update: 2018-08
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,15 +16,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/f
 permalink: https://harrix.dev/ru/articles/2016/fix-qt-under-visual-studio/
 lang: ru
 attribution:
-  - {
-      author: Qt Project,
-      author-site: "https://www.qt.io",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg",
-      permalink-date: 2019-01-26,
-      name: Qt logo 2016.svg,
-    }
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Крякозябры в Qt под Visual Studio

@@ -1,7 +1,11 @@
 ---
 date: 2016-04-02
-categories: [it, programming]
-tags: [Pascal, Сложение двух чисел]
+categories:
+  - it
+  - programming
+tags:
+  - Pascal
+  - Сложение двух чисел
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,13 @@
 ---
 date: 2016-02-15
-categories: [it, programming]
-tags: [Dev C++, C++, Сложение двух чисел, Установка]
+categories:
+  - it
+  - programming
+tags:
+  - Dev C++
+  - C++
+  - Сложение двух чисел
+  - Установка
 update: 2021-09-14
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,15 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/a
 permalink: https://harrix.dev/ru/articles/2016/add-2-num-devcpp/
 lang: ru
 attribution:
-  - {
-      author: Remember the dot,
-      author-site: "https://en.wikipedia.org/wiki/User:Remember_the_dot",
-      license: GNU General Public License,
-      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
-      permalink: "https://commons.wikimedia.org/wiki/File:Dev-C%2B%2B_4.9.9.2_icon.png",
-      permalink-date: 2019-06-22,
-      name: Dev-C++ 4.9.9.2 icon.png,
-    }
+  - author: Remember the dot
+    author-site: https://en.wikipedia.org/wiki/User:Remember_the_dot
+    license: GNU General Public License
+    license-url: https://en.wikipedia.org/wiki/GNU_General_Public_License
+    permalink: https://commons.wikimedia.org/wiki/File:Dev-C%2B%2B_4.9.9.2_icon.png
+    permalink-date: 2019-06-22
+    name: Dev-C++ 4.9.9.2 icon.png
 ---
 
 # Сложение двух чисел в Dev-C++

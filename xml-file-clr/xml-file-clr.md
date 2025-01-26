@@ -1,7 +1,11 @@
 ---
 date: 2016-09-26
-categories: [it, programming]
-tags: [C++, Visual Studio]
+categories:
+  - it
+  - programming
+tags:
+  - C++
+  - Visual Studio
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

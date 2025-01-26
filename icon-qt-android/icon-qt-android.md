@@ -1,7 +1,11 @@
 ---
 date: 2016-08-27
-categories: [it, programming]
-tags: [Qt, Android]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - Android
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,24 +14,20 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2016/blob/main/i
 permalink: https://harrix.dev/ru/articles/2016/icon-qt-android/
 lang: ru
 attribution:
-  - {
-      author: Google Inc,
-      author-site: "https://www.google.com/",
-      license: CC BY 3.0,
-      license-url: "https://creativecommons.org/licenses/by/3.0/",
-      permalink: "https://commons.wikimedia.org/wiki/File:Android_robot.svg",
-      permalink-date: 2019-10-13,
-      name: Android robot.svg,
-    }
-  - {
-      author: Qt Project,
-      author-site: "https://www.qt.io",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg",
-      permalink-date: 2019-01-26,
-      name: Qt logo 2016.svg,
-    }
+  - author: Google Inc
+    author-site: https://www.google.com/
+    license: CC BY 3.0
+    license-url: https://creativecommons.org/licenses/by/3.0/
+    permalink: https://commons.wikimedia.org/wiki/File:Android_robot.svg
+    permalink-date: 2019-10-13
+    name: Android robot.svg
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Как добавить иконку в приложение Qt под Android
