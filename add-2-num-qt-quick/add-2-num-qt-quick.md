@@ -32,7 +32,8 @@ attribution:
 
 В статье описывается создание приложения QML через Qt Quick с выполнением кода на C++.
 
-## Содержание
+<details>
+<summary>📖 Содержание</summary>
 
 - [Подготовка](#подготовка)
 - [Построение интерфейса](#построение-интерфейса)
@@ -43,6 +44,8 @@ attribution:
 В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/qt-quick-and-cpp/qt-quick-and-cpp.md) | [🡥](https://harrix.dev/ru/articles/2016/qt-quick-and-cpp/) приведена сокращенная версия данной статьи.
 
 В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) | [🡥](https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
+
+</details>
 
 ## Подготовка
 
