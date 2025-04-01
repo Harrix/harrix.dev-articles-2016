@@ -24,6 +24,8 @@ lang: ru
 <details>
 <summary>📖 Содержание</summary>
 
+## Содержание
+
 - [ExampleClass.h](#exampleclassh)
 - [ClassWithVector.h](#classwithvectorh)
 - [С применением инкапсуляции](#с-применением-инкапсуляции)
