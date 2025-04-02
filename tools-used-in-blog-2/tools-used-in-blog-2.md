@@ -82,8 +82,9 @@ function make_importanttext($content){
 И теперь у вас будет такой шорткод:
 
 ```html
-[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст на несколько строк, поэтому распишу
-побольше текста. Думаю, что этого будет достаточно.[/importanttext]
+[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст
+на несколько строк, поэтому распишу побольше текста. Думаю, что этого будет
+достаточно.[/importanttext]
 ```
 
 ![Тэг importanttext](img/importanttext.png)
@@ -233,8 +234,8 @@ function make_filename($content){
 Пример использования шорткодов:
 
 ```html
-[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы называется
-[filename]custom_functions.php[/filename].
+[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы
+называется [filename]custom_functions.php[/filename].
 ```
 
 ![Отображение тэгов important и filename](img/important-and-filename.png)
