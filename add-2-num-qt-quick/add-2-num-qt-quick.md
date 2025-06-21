@@ -45,9 +45,9 @@ attribution:
 
 В качестве среды для разработки используется Qt 5.6.0 для Windows 64 bit под компилятором Visual Studio.
 
-В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/qt-quick-and-cpp/qt-quick-and-cpp.md) | [🡥](https://harrix.dev/ru/articles/2016/qt-quick-and-cpp/) приведена сокращенная версия данной статьи.
+В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/qt-quick-and-cpp/qt-quick-and-cpp.md) | [↗️](https://harrix.dev/ru/articles/2016/qt-quick-and-cpp/) приведена сокращенная версия данной статьи.
 
-В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) | [🡥](https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
+В [статье](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) | [↗️](https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/) рассказывается о подобном приложении, но с использованием компонентов Qt Quick Controls.
 
 ## Подготовка
 

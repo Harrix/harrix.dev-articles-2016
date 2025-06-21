@@ -82,9 +82,8 @@ function make_importanttext($content){
 И теперь у вас будет такой шорткод:
 
 ```html
-[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст
-на несколько строк, поэтому распишу побольше текста. Думаю, что этого будет
-достаточно.[/importanttext]
+[importanttext]Пример выделенного текста, в данной статьей. Надо написать текст на несколько строк, поэтому распишу
+побольше текста. Думаю, что этого будет достаточно.[/importanttext]
 ```
 
 ![Тэг importanttext](img/importanttext.png)
@@ -97,7 +96,7 @@ _Рисунок 1 — Тэг importanttext_
 
 ## Отображение файлов Markdown \*.md в WordPress
 
-Читайте в [статье](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md) | [🡥](https://harrix.dev/ru/articles/2014/show-pdf-from-github/).
+Читайте в [статье](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/show-pdf-from-github/show-pdf-from-github.md) | [↗️](https://harrix.dev/ru/articles/2014/show-pdf-from-github/).
 
 ## Оформление цитат
 
@@ -234,8 +233,8 @@ function make_filename($content){
 Пример использования шорткодов:
 
 ```html
-[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы
-называется [filename]custom_functions.php[/filename].
+[important]Wordpress[/important] - блоговый движок. У меня файл с функциями темы называется
+[filename]custom_functions.php[/filename].
 ```
 
 ![Отображение тэгов important и filename](img/important-and-filename.png)
