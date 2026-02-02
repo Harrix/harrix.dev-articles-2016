@@ -287,9 +287,9 @@ function make_source($content){
 Пример применения шорткодов в тексте статьи:
 
 ```html
-[demo]http://demo.harrix.org/demo0006/[/demo]
-[source]http://blog.harrix.org/wp-content/uploads/2015/02/AutomaticImageMontageWithLightBox.zip[/source]
-[download]http://blog.harrix.org/wp-content/uploads/2015/02/AutomaticImageMontageWithLightBox.zip[/download]
+[demo]https://example.com/demo/[/demo]
+[source]https://example.com/test.zip[/source]
+[download]https://example.com/test.zip[/download]
 ```
 
 ![Кнопки «Скачать», «Демо», «Исходники»](img/demo.png)
