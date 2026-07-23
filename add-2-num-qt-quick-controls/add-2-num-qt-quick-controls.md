@@ -93,7 +93,7 @@ _Рисунок 8 — Перевод приложения в режим Release_
 
 Откроем файл `main.qml`:
 
-![Файл main.qml](img/qml_01.png)
+![Файл `main.qml`](img/qml_01.png)
 
 _Рисунок 9 — Файл main.qml_
 

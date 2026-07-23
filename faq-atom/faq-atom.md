@@ -387,7 +387,6 @@ _Рисунок 40 — Пакет file-icons_
 _Рисунок 41 — Пакет language-qml_
 
 - [language-ini](https://atom.io/packages/language-ini) — подсветка синтаксиса для файлов `.ini`.
-
 - [language-latex](https://atom.io/packages/language-latex) — для отображения LaTeX кода:
 
 ![Пакет language-latex](img/language-latex.png)
@@ -555,7 +554,6 @@ _Рисунок 63 — Пакет open-in-browsers_
 _Рисунок 64 — Пакет auto-encoding_
 
 - [split-diff](https://atom.io/packages/split-diff) — позволяет сравнивать два файла.
-
 - [minimap-split-diff](https://atom.io/packages/minimap-split-diff) — дополнение к предыдущему пакету, чтобы изменения отображались и на миникарте.
 
 Итак, как производить сравнения файлов. Один из двух файлов отправляем во вторую панель:
@@ -1085,7 +1083,7 @@ _Рисунок 100 — Поиск в реестре_
 
 _Рисунок 101 — Ввод поискового запроса_
 
-И какие-то файлы могут остаться в папке ``C:\Users\[Пользователь]\AppData\Local`в папке`atom`:
+И какие-то файлы могут остаться в папке ``C:\Users[Пользователь]\AppData\Local`в папке`atom`:
 
 ![Папка atom](img/atom-folder_02.png)
 

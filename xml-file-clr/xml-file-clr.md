@@ -30,9 +30,9 @@ lang: ru
 - [Постановка задачи](#постановка-задачи)
 - [Интерфейс программы](#интерфейс-программы)
 - [Классы](#классы)
-  - [Point.h](#pointh)
-  - [PointWithName.h](#pointwithnameh)
-  - [Points.h](#pointsh)
+  - [`Point.h`](#pointh)
+  - [`PointWithName.h`](#pointwithnameh)
+  - [`Points.h`](#pointsh)
 - [Подготовка формы](#подготовка-формы)
 - [Коды кнопок](#коды-кнопок)
 - [Запуск приложения](#запуск-приложения)
@@ -74,7 +74,7 @@ lang: ru
 
 Также кроме загрузки файла, мы должны иметь возможность обработать данные, например, отфильтровать их.
 
-Писать будем в Visual Studio 2015 под С++/CLI приложение CLR.
+Писать будем в Visual Studio 2015 под C++/CLI приложение CLR.
 
 ## Интерфейс программы
 
@@ -84,7 +84,7 @@ _Рисунок 1 — Интерфейс программы_
 
 ## Классы
 
-### Point.h
+### `Point.h`
 
 ```cpp
 #pragma once
@@ -132,7 +132,7 @@ int Point::getY() {
 }
 ```
 
-### PointWithName.h
+### `PointWithName.h`
 
 ```cpp
 #pragma once
@@ -191,7 +191,7 @@ void PointWithName::setType(String^ type) {
 }
 ```
 
-### Points.h
+### `Points.h`
 
 ```cpp
 #pragma once

@@ -25,7 +25,7 @@ attribution:
     name: Visual Studio 2017 Logo.svg
 ---
 
-# Запуск Qt приложений под Visual Studio .exe вне Qt Creator
+# Запуск Qt приложений под Visual Studio `.exe` вне Qt Creator
 
 ![Featured image](featured-image.svg)
 
@@ -45,7 +45,7 @@ attribution:
 
 </details>
 
-Для версии Qt под компилятор MinGW читайте статью [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) | [↗️](https://harrix.dev/ru/articles/2014/run-qt-app-exe-outside-qt/).
+Для версии Qt под компилятор MinGW читайте статью [Запуск Qt приложений `.exe` вне Qt Creator](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) | [↗️](https://harrix.dev/ru/articles/2014/run-qt-app-exe-outside-qt/).
 
 Тут расскажу о самом механизме нахождения DLL, так как Qt активно развивается и регулярно новые версии выпускает и под каждую версию писать статью о новом наборе DLL накладно.
 

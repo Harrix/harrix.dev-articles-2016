@@ -78,7 +78,6 @@ HandlerSignals::HandlerSignals(QObject *parent) : QObject(parent)
 void HandlerSignals::cppSlot(const QString &msg) {
 //Здесь располагается код С++, который вызывается QML элементом.
 }:
-
 ```
 
 - Перейдем к файлу `main.cpp` и меняем его на такой:

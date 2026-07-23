@@ -26,8 +26,8 @@ lang: ru
 
 ## Содержание
 
-- [ExampleClass.h](#exampleclassh)
-- [ClassWithVector.h](#classwithvectorh)
+- [`ExampleClass.h`](#exampleclassh)
+- [`ClassWithVector.h`](#classwithvectorh)
 - [С применением инкапсуляции](#с-применением-инкапсуляции)
 
 </details>
@@ -36,7 +36,7 @@ lang: ru
 
 Там показан пример класса, который принимает в качестве параметра строку с именем файла и может возвращать расширение файла.
 
-## ExampleClass.h
+## `ExampleClass.h`
 
 ```cpp
 #pragma once
@@ -78,7 +78,7 @@ String^ ExampleClass::getFileExtension() {
 
 Ниже приведен код простейшего класса, в котором есть нужный нам вектор.
 
-## ClassWithVector.h
+## `ClassWithVector.h`
 
 ```cpp
 #pragma once

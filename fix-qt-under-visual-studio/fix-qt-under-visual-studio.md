@@ -102,7 +102,7 @@ _Рисунок 7 — Применение изменений_
 
 _Рисунок 8 — Английские сообщения от компилятора_
 
-P.S. Правда после этого приложения под UWP перестали компилироваться и выдают ошибку вроде этой:
+P. S. Правда после этого приложения под UWP перестали компилироваться и выдают ошибку вроде этой:
 
 ```text
 13:44:39: Could not start process "windeployqt.exe" D:\Harrix\Projects\QtProjects\untitled12\_build\release\untitled12.exe --qmldir D:\Harrix\Projects\QtProjects\untitled12
@@ -155,7 +155,7 @@ _Рисунок 13 — Открытый проект_
 
 В подпроекте `app` находим файл `main.cpp`:
 
-![Нахождение файла main.cpp](img/cpp_01.png)
+![Нахождение файла `main.cpp`](img/cpp_01.png)
 
 _Рисунок 14 — Нахождение файла main.cpp_
 
@@ -224,7 +224,7 @@ _Рисунок 22 — Папка bin_
 
 Там должен быть файл `jom.exe`:
 
-![Файл jom.exe](img/find_03.png)
+![Файл `jom.exe`](img/find_03.png)
 
 _Рисунок 23 — Файл jom.exe_
 
@@ -232,7 +232,7 @@ _Рисунок 23 — Файл jom.exe_
 
 Переходим в папку, где находится файл `qtcreator.exe`. У меня это папка `C:\Qt\Qt5.8.0\Tools\QtCreator\bin`:
 
-![Папка с родным jom.exe](img/replace_01.png)
+![Папка с родным `jom.exe`](img/replace_01.png)
 
 _Рисунок 24 — Папка с родным jom.exe_
 

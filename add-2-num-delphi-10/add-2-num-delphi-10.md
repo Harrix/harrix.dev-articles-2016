@@ -132,7 +132,6 @@ b := S2.ToInteger;
 c := a + b;
 
 Memo1.Lines.Add(IntToStr(a) + ' + ' + IntToStr(b) + ' = ' + IntToStr(c));:
-
 ```
 
 ![Код метода обработки клика кнопки](img/click_03.png)
