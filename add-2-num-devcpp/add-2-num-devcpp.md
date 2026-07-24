@@ -102,7 +102,7 @@ _Рисунок 9 — Выбор языка программы_
 
 _Рисунок 10 — Настройка внешнего вида_
 
-Лично я ставлю в качестве шрифта [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
+Лично я ставлю в качестве шрифта [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/):
 
 ![Настройка внешнего вида](img/config_03.png)
 
